@@ -12,4 +12,4 @@ En el icono de audio del PC servidor, ir a Sonidos, y en la pestaña grabar acti
 
 Poner el ejecutable AudioClient en el PC que ha a hacer de cliente de audio.
 
-Añadir la dirección IP del servidor en el archivo AudioClient.
+Añadir la dirección IP del servidor en el archivo AudioClient en la línea: Socket socket = new Socket("192.168.1.XXX", 50005);
