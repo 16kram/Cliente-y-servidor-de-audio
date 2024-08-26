@@ -1,12 +1,12 @@
-Poner el ejecutable servAudio en el PC que va a hacer de servidor de audio.
+Poner el ejecutable ServAudio en el PC que va a hacer de servidor de audio.
 
-Crear un acceso directo del archivo servAudio.
+Crear un acceso directo del archivo ServAudio.
 
-teclear Windows + R.
+Teclear Windows + R.
 
 Ejecutar-->shell:startup.
 
-Mover acceso directo servAudio a la carpeta de inicio.
+Mover acceso directo ServAudio a la carpeta de inicio.
 
 En el icono de audio del PC servidor, ir a Sonidos, y en la pestaña grabar activar la mezcla estereo.
 
